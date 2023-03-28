@@ -1,0 +1,64 @@
+Improve Data Visualization Skills
+
+
+
+1. In your own words, explain three principles of effective data communication from the lecture material.
+
+- Is there a clear story? We want to communicate a story with impact.
+- We should have data communication be easy to understand and coherent. Everyone should be able to understand it.
+- Each element is used to narrate the same story. Formatting should tell a compelling narrative.
+
+
+2. In your own words, summarize the following concepts as they relate to visual perception:
+
+Order - An agreed standard to understand the data. Data visualizations do not have a right order. Some people might immediately look at a graph's legend while others might look at the axes or title. The composition of a chart can affect the story, so you can design a visualization to lead, help, and guide the audience.
+Hierarchy - Bringing attention to certain design choices to tell the true story of what the author intends. 
+Relationships - If you present something, there should be a relationship (or else a false narrative can be created).
+Convention - Some things are hard-coded into our understanding as a form of convention. Some things are expected within data visualizations, like composition being standard, components arranged in the right order, visualizations being correct, colors, etc.
+
+Answer the following: How will an understanding of these concepts help you create better data visualizations?
+Understanding these concepts can help us tell a story that we intend to share. We can use techniques of visual design to make things easy to understand, show relationships and similarities, prevent errors in interpretation, draw attention to what is important, etc. without having to have participated in the process.
+
+3. Given the scenarios below, write which graph would be best to use for the data and what makes it an effective choice:
+
+Comparison between values - Bar charts (includes grouped bar/column charts). We can accurately gauge a value of a bar compared with others.
+Comparison to the whole - Sstacked column or treemap column graphs. As long as segments aren't too small or there aren't too many, stacked columns are effective with the addition that it can show data over time if the bottom axis is a time series. Treemaps are great for visualization and subcategories.
+Change over time -  Time series graphs (line, area, column, slope). Avoid too many points and criss-crossing lines with line chart. Area charts are effective at showing change over time. Our eyes tend to follow a line despite turns.
+Ranking data - Bar charts and slope. We can display data in the order of ranking easily with bar charts, but a slope graph is great at showing that data over time.
+Correlation - Scatter plots (plot, bubble). These show relationships between two continuous variables easily. Three variales and more work well with bubble charts.
+Geographical charts - Colored maps (generally not recommended). These work well with colors or icons to represent data from geographic locations.
+Measuring a target - Simple gauge. It is a simple and eleggant way to communicate how far a single measure is to a target. It presents a lot of information such as: current value, starting point, ending point, and target. Effective at telling a specific story but lacks in comparisons and showing things over time.
+Showing Outliers - Tables. Shows a lot of data easily, great with formatting and colors, allows audience to pick up the story and identify outliers.
+
+Answer the following: How will an understanding of these concepts help you create better data visualizations?
+By picking the correct graph, we can fit into the convention of data visualization so that the audience can understand the story better.
+
+4. Consider the following quote: “It is easy to lie with statistics. It is hard to tell the truth without it.” - Andrejs Dunkels
+What do you think is meant by this statement?
+
+Numbers are manipulative. Misleading graphs misrepresent data with intentional effort and/or poor design (such as the shape of graph or layout of the elements) to distort the truth.
+
+Provide three examples of misleading graphs. Explain what is misleading about the graph in your example and what should be changed to make the graph objective and accurate. Feel free to consult Google for real-life examples of misleading graphs to use as your examples.
+
+I will not be using pics because I settled on a txt file. Sorry. Some graphs already used in the lecture are an area graph of gun deaths in Florida with an upside down graph (descending Y scale), bars chart with arbitary bar lengths/zero scales/truncated axes etc.
+- Using a 3D bar chart graph for showing revenue of different stores can be misleading. Where does the bar actually measure? We do not know because of the dimensions. The depth only adds confusion and inaccuracies. We can make this more objective and accurate if we use a 2D bar chart.
+- Using a triangle graph to compare two values. There is too much room for error to identify how much bigger one data is from the other. To make the graph objective and accurate, we can change this to a regular bar chart once again and avoid pictorials.
+- Using a pie chart, let alone a 3D pie chart, to measure market share. They are ineffective at comparing values since they're misleading and have limitations. Their sizes are hard to measure and compare accurately. They get messy since they need labels to give information quickly. Since they are in a cirlce, they also imply a static whole even when there isn't any.
+
+5. In your own words, answer the following questions:
+
+What is “visualization clutter?”
+Visualization clutter is anything tha distracts from the key message of a visualization.
+
+What are the main components of a graph?
+Lines, labels, titles, axis names, others
+
+What are three techniques you learned to make data visualizations more clear?
+- Delete all the elements
+- Start with just the bars
+- Reintroduce elements until the graph can be understood
+Generally: Review every part of the visualization and if it doesn't add clarity, then remove it. Start from a blank point and then add.
+
+How can the use of color affect the way your visualizations are understood?
+
+Colors can support convention and adhere to design principles. For example: red = negative and green = positive. We can utilize color to emphasize order and hierarchy and create comparisons/indicate relationships between values.
