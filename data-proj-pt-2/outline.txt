@@ -1,0 +1,33 @@
+1. What questions might the audience have about salaries regarding the data within the dataset? 
+- What gender makes more money on average?
+- What industry does the manager makes the least amount of money?
+- How much does the salary vary in education levels?
+- What is the relationship between industry experience vs salary?
+... and many more!
+Typically people want to find how to make the most money in the least amount of time. Therefore, a big point I would delve into is how certain factors cross, like which industry will give me the best salary with the least amount of experience?
+
+2. Outline
+
+First section:
+- Introduce the idea of how not everyone makes the same amount of money, so there are most likely patterns that factors correlating with salaries.
+- Explain how data analysis fits in
+- Introduce the dataset and what information was taken to determine what to visualize
+- Preview of what was done to prep data (usually would do this but this was completed prior to project 3)
+
+Second section:
+- VISUALIZATIONS!!!!
+    a) Gender in general vs salary, could expand into industries, etc.
+    b) Industry vs salary
+    c) Age vs industry
+    d) Industry experience vs salary, group by industry
+There could be more in a full-fledged presentation.
+
+Third section:
+- Summary statistics
+- Significance
+- Downfalls
+
+Fourth section:
+- What does this mean in the end?
+Essentially, answer the questions people might be asking.
+Lead the audience to make their own thoughts about the data, tell a compelling story!

@@ -22,7 +22,7 @@ Understanding these concepts can help us tell a story that we intend to share. W
 3. Given the scenarios below, write which graph would be best to use for the data and what makes it an effective choice:
 
 Comparison between values - Bar charts (includes grouped bar/column charts). We can accurately gauge a value of a bar compared with others.
-Comparison to the whole - Sstacked column or treemap column graphs. As long as segments aren't too small or there aren't too many, stacked columns are effective with the addition that it can show data over time if the bottom axis is a time series. Treemaps are great for visualization and subcategories.
+Comparison to the whole - Stacked column or treemap column graphs. As long as segments aren't too small or there aren't too many, stacked columns are effective with the addition that it can show data over time if the bottom axis is a time series. Treemaps are great for visualization and subcategories.
 Change over time -  Time series graphs (line, area, column, slope). Avoid too many points and criss-crossing lines with line chart. Area charts are effective at showing change over time. Our eyes tend to follow a line despite turns.
 Ranking data - Bar charts and slope. We can display data in the order of ranking easily with bar charts, but a slope graph is great at showing that data over time.
 Correlation - Scatter plots (plot, bubble). These show relationships between two continuous variables easily. Three variales and more work well with bubble charts.
